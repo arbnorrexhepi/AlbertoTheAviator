@@ -25,3 +25,10 @@ C:\Users\arbno\Desktop\N\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTh
 C:\Users\arbno\Desktop\N\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.csproj.CoreCompileInputs.cache
 C:\Users\arbno\Desktop\N\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.exe
 C:\Users\arbno\Desktop\N\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.pdb
+C:\Users\arbno\Desktop\AlbertoAviator\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.exe.config
+C:\Users\arbno\Desktop\AlbertoAviator\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.exe
+C:\Users\arbno\Desktop\AlbertoAviator\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.pdb
+C:\Users\arbno\Desktop\AlbertoAviator\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.csprojResolveAssemblyReference.cache
+C:\Users\arbno\Desktop\AlbertoAviator\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.csproj.CoreCompileInputs.cache
+C:\Users\arbno\Desktop\AlbertoAviator\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.exe
+C:\Users\arbno\Desktop\AlbertoAviator\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.pdb
