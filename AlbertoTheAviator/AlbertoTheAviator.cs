@@ -14,8 +14,6 @@ namespace AlbertoTheAviator
     {
         public int MaximumFlights(int F, int[] duration, int[] refuel)
         {
-            
-
             if (duration.Length == refuel.Length)
             {
                 int missionsNumber = 0;
@@ -31,13 +29,10 @@ namespace AlbertoTheAviator
                         flight.Delta = F - duration[k] + refuel[k];
 
                         availableFlights.Add(k, flight);
-
                     }
                 }
 
                 var sortedavailableFlights = availableFlights.OrderByDescending(x => x.Value.Delta);
-
-
 
                 foreach (KeyValuePair<int, Flight> item in sortedavailableFlights)
                 {
@@ -56,13 +51,10 @@ namespace AlbertoTheAviator
             }
             else
             {
-              
                 return -1;
             }
-            
+
         }
-
-
 
         static void Main(string[] args)
         {
@@ -77,7 +69,6 @@ namespace AlbertoTheAviator
             var m1 = test.MaximumFlights(10, durations1, refuel1);
             if (m1 >= 0)
             {
-
                 Console.WriteLine("   0)");
                 Console.WriteLine("   10");
                 Console.WriteLine("  {10}");
@@ -85,7 +76,8 @@ namespace AlbertoTheAviator
                 Console.WriteLine("  Return: {0}", m1);
                 Console.WriteLine("  There is only one mission. Alberto has enough fuel to take it, so the optimal solution is to take it.");
 
-            } else
+            }
+            else
             {
                 Console.WriteLine("  Duration and Refuel must have same length");
             }
@@ -146,7 +138,6 @@ namespace AlbertoTheAviator
             {
                 Console.WriteLine("  Duration and Refuel must have same length");
             }
-
 
             Console.WriteLine("--------------------------------");
 
