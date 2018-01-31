@@ -1,0 +1,27 @@
+c:\users\arbneshi\documents\visual studio 2013\Projects\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.exe.config
+c:\users\arbneshi\documents\visual studio 2013\Projects\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.csprojResolveAssemblyReference.cache
+c:\users\arbneshi\documents\visual studio 2013\Projects\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.exe
+c:\users\arbneshi\documents\visual studio 2013\Projects\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.pdb
+c:\users\arbneshi\documents\visual studio 2013\Projects\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.exe
+c:\users\arbneshi\documents\visual studio 2013\Projects\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.pdb
+C:\Users\arbno\Desktop\AlbertoTheAviator\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.exe.config
+C:\Users\arbno\Desktop\AlbertoTheAviator\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.exe
+C:\Users\arbno\Desktop\AlbertoTheAviator\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.pdb
+C:\Users\arbno\Desktop\AlbertoTheAviator\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.csprojResolveAssemblyReference.cache
+C:\Users\arbno\Desktop\AlbertoTheAviator\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.csproj.CoreCompileInputs.cache
+C:\Users\arbno\Desktop\AlbertoTheAviator\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.exe
+C:\Users\arbno\Desktop\AlbertoTheAviator\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.pdb
+C:\Users\Hp\Desktop\Master\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.exe.config
+C:\Users\Hp\Desktop\Master\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.exe
+C:\Users\Hp\Desktop\Master\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.pdb
+C:\Users\Hp\Desktop\Master\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\Master\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Master\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.exe
+C:\Users\Hp\Desktop\Master\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.pdb
+C:\Users\arbno\Desktop\N\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.exe.config
+C:\Users\arbno\Desktop\N\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.exe
+C:\Users\arbno\Desktop\N\AlbertoTheAviator\AlbertoTheAviator\bin\Debug\AlbertoTheAviator.pdb
+C:\Users\arbno\Desktop\N\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.csprojResolveAssemblyReference.cache
+C:\Users\arbno\Desktop\N\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.csproj.CoreCompileInputs.cache
+C:\Users\arbno\Desktop\N\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.exe
+C:\Users\arbno\Desktop\N\AlbertoTheAviator\AlbertoTheAviator\obj\Debug\AlbertoTheAviator.pdb
